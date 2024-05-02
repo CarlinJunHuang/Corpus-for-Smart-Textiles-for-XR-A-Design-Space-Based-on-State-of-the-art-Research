@@ -1,6 +1,6 @@
 # ISMAR 2024 Smart Textiles for XR: A Design Space Based on State-of-the-art Research
 
-## Abstract
+## Introduction
 This repository contains supplemental corpus for the paper "Smart Textiles for XR: A Design Space Based on State-of-the-art Research".
 Key highlights include:
 - Structured framework for design, interaction, and application of smart textiles in XR.
