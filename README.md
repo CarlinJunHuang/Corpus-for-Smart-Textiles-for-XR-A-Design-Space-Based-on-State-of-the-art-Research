@@ -477,47 +477,48 @@ less fatigue or nausea
 
 
 ## Authors
-- **Mengqi Jiang**  
-  School of System Design and Intelligent Manufacturing - HCID Lab,
+- **Mengqi Jiang**
+  jiangmq2022@mail.sustech.edu.cn  
+  School of System Design and Intelligent Manufacturing - HCID Lab,  
   Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
-  Email: jiangmq2022@mail.sustech.edu.cn
 
-- **Qianwen Tan**  
-  School of System Design and Intelligent Manufacturing - HCID Lab,
+- **Qianwen Tan**
+  Email: 12332673@mail.sustech.edu.cn  
+  School of System Design and Intelligent Manufacturing - HCID Lab,  
   Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
-  Email: 12332673@mail.sustech.edu.cn
 
-- **Jun Huang**  
-  School of System Design and Intelligent Manufacturing - UG,
-  Southern University of Science and Technology,  
-  Shenzhen, Guangdong, China  
+- **Jun Huang**
   Email: 12111119@mail.sustech.edu.cn
+  School of System Design and Intelligent Manufacturing - UG,  
+  Southern University of Science and Technology,  
+  Shenzhen, Guangdong, China  
 
-- **Rongkai Shi**  
-  Department of Computing,
+- **Rongkai Shi**
+  rongkai.shi19@student.xjtlu.edu.cn  
+  Department of Computing,  
   Xi'an Jiaotong-Liverpool University,  
   Suzhou, Jiangsu, China  
-  Email: rongkai.shi19@student.xjtlu.edu.cn
 
-- **Vijayakumar Nanjappan**  
-  School of Computer Science and Information Technology,
+
+- **Vijayakumar Nanjappan**
+  vnanjappan@ucc.ie
+  School of Computer Science and Information Technology,  
   University College Cork,  
   Cork, Ireland  
-  Email: vnanjappan@ucc.ie
 
-- **Ziqian Bai**  
-  School of System Design and Intelligent Manufacturing - HCID Lab,
+- **Ziqian Bai**
+  baizq@sustech.edu.cn  
+  School of System Design and Intelligent Manufacturing - HCID Lab,  
   Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
-  Email: baizq@sustech.edu.cn
 
-- **Hai-Ning Liang**  
-  Department of Computing,
+- **Hai-Ning Liang**
+  haining.liang@xjtlu.edu.cn  
+  Department of Computing,  
   Xi'an Jiaotong-Liverpool University,  
   Suzhou, Jiangsu, China  
-  Email: haining.liang@xjtlu.edu.cn
 
 ## Contact
 For any inquiries related to this research, please contact the respective authors through the provided email addresses.
