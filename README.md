@@ -13,7 +13,7 @@ Key highlights include:
 ## Authors
 - **Mengqi Jiang**  
   School of System Design and Intelligent Manufacturing - HCID Lab,
-  South University of Science and Technology,  
+  Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
   Email: jiangmq2022@mail.sustech.edu.cn
 
@@ -24,7 +24,7 @@ Key highlights include:
   Email: 12332673@mail.sustech.edu.cn
 
 - **Jun Huang**  
-  School of System Design and Intelligent Manufacturing - UG,  
+  School of System Design and Intelligent Manufacturing - UG,
   Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
   Email: 12111119@mail.sustech.edu.cn
