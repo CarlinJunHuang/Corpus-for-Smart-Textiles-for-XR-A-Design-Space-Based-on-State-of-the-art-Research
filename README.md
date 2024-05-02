@@ -137,7 +137,7 @@ Findings of Textiles related
 - **Abbreviation**: -
 
 ## Integrability and Reliability of SmartWearables in Virtual Reality Experiences: A Subjective Review
-- **DOI**: DOI not available
+- **DOI**: [https://doi.org/10.1145/3234253.3234305](https://doi.org/10.1145/3234253.3234305)
 - **Authors**: Samory Houzangbe et al. | **Year**: 2018 | **J/C**: C | **Venue**: VRIC | **Publisher**: ACM | **Prototype**: - | **Contribution Area**: HCI | **Research Type**: Qualitative | **VR/AR/MR/ER**: VR | **Textile Form**: Wristband | **Textile Placement**: Wrist | **Function**: Carrier | **Electronics**: Mio LINK heart rate wristband
 - **Interaction Mode**: Bio-data Interaction | **Application**: Game | **Research Aim**: To investigate the comfort of use and stability of wearable sensors in a VR experience involving mobility and to study the usability and potential of wearables as biofeedback tools in VR
 - **Findings**: Participants showed high interest in the integration of smart wearables in VR, and the setup was stable and comfortable even during mobility
@@ -193,7 +193,7 @@ Findings of Textiles related
 - **Abbreviation**: -
 
 ## PillowVR: Virtual Reality in Bed A Demonstration of Weaving Virtual Reality into Our Daily Lives
-- **DOI**: DOI not available
+- **DOI**: [https://doi.org/10.1145/3359996.3365029](https://doi.org/10.1145/3359996.3365029)
 - **Authors**: Doil Kwon et al. | **Year**: 2019 | **J/C**: C | **Venue**: VRST | **Publisher**: ACM | **Prototype**: PillowVR | **Contribution Area**: HCI | **Research Type**: Design & demo | **VR/AR/MR/ER**: VR | **Textile Form**: Pillow/cushion | **Textile Placement**: Near body | **Function**: Motion tracking | **Electronics**: Smartphone, magnifier lens, pressure sensors
 - **Interaction Mode**: Head motion | **Application**: Somnus | **Research Aim**: To demonstrate how VR can be integrated into daily life by creating a comfortable and natural VR experience in bed for children's bedtime stories.
 - **Findings**: PillowVR shows that VR can be inexpensively and naturally woven into daily life by customizing setup and interaction for specific tasks and experiences, such as bedtime stories for children.
@@ -202,7 +202,7 @@ Findings of Textiles related
 - **Abbreviation**: -
 
 ## Design of Interactions for Handheld Augmented Reality Devices UsingWearable Smart Textiles: Findings from a User Elicitation Study
-- **DOI**: DOI not available
+- **DOI**: [https://doi.org/10.3390/app9153177](https://doi.org/10.3390/app9153177)
 - **Authors**: Vijayakumar Nanjappan et al. | **Year**: 2019 | **J/C**: J | **Venue**: Applied Sciences | **Publisher**: MDPI | **Prototype**: - | **Contribution Area**: HCI | **Research Type**: Mixed | **VR/AR/MR/ER**: AR | **Textile Form**: Gloves | **Textile Placement**: Hands | **Function**: Gesture sensing | **Electronics**: conductive fabric
 - **Interaction Mode**: Touch; Mid-air gesture | **Application**: - | **Research Aim**: To investigate the use of fabric-based wearable devices as an alternative interface for performing interactions with handheld augmented reality (HAR) applications.
 - **Findings**: The study identifies user-preferred gestures for fabric-based wearable interfaces and presents an interaction vocabulary for wrist and thumb-to-index touch gestures. The findings contribute to the design guidelines for fabric-based wearable interfaces for handheld augmented reality applications.
@@ -210,7 +210,7 @@ Findings of Textiles related
 - **Abbreviation**: HAR (Handheld Augmented Reality)
 
 ## Facilitating Physical Contact in Collocated Virtual Reality and RealWorld Player Games through Wearable Touchable Interfaces
-- **DOI**: DOI not available
+- **DOI**:[https://doi.org/10.1145/3341215.3356989](https://doi.org/10.1145/3341215.3356989)
 - **Authors**: Oscar Ardaiz et al. | **Year**: 2019 | **J/C**: C | **Venue**: CHI PLAY | **Publisher**: ACM | **Prototype**: - | **Contribution Area**: HCI | **Research Type**: Design & demo | **VR/AR/MR/ER**: VR | **Textile Form**: Wearables | **Textile Placement**: Various (objects, walls, players) | **Function**: Interaction Interface | **Electronics**: Capacitive sensors, ESP32 microcontrollers
 - **Interaction Mode**: Touch; Physical contact | **Application**: Game | **Research Aim**: To create games where physical contact is required for VR players and can be played together with RW players
 - **Findings**: The system allows for collocated gaming experiences, enhancing physicality and contact between players
@@ -234,7 +234,7 @@ Findings of Textiles related
 - **Abbreviation**: CNTs - Carbon Nanotubes, TPE - Thermoplastic Elastomer, TENG - Triboelectric Nanogenerator
 
 ## Portalware: A Smartphone-Wearable Dual-Display System for Expanding the Free-Hand Interaction Region in Augmented Reality
-- **DOI**: DOI not available
+- **DOI**: [https://doi.org/10.1145/3334480.3383079](https://doi.org/10.1145/3334480.3383079)
 - **Authors**: Jing Qian et al. | **Year**: 2020 | **J/C**: C | **Venue**: CHI | **Publisher**: ACM | **Prototype**: Portalware | **Contribution Area**: HCI | **Research Type**: Design & demo | **VR/AR/MR/ER**: AR | **Textile Form**: Wristband | **Textile Placement**: Wrist | **Function**: Carrier | **Electronics**: OLED
 - **Interaction Mode**: Visual feedback; Mid-air gesture | **Application**: - | **Research Aim**: To increase the interaction region for smartphone AR free-hand manipulation and provide visual feedback outside the smartphone’s view
 - **Findings**: Portalware allows for a wider free-hand interaction region and enables new AR applications, such as mid-air drawing and hands-free interaction
@@ -283,7 +283,7 @@ less fatigue or nausea
 - **Abbreviation**: DoF - Degree of Freedom
 
 ## Towards the Next Generation of Extended RealityWearables
-- **DOI**: DOI not available
+- **DOI**: [https://doi.org/10.1145/3411763.3451697](https://doi.org/10.1145/3411763.3451697)
 - **Authors**: Oğuz ’Oz’ Buruk et al. | **Year**: 2021 | **J/C**: C | **Venue**: CHI | **Publisher**: ACM | **Prototype**: - | **Contribution Area**: HCI | **Research Type**: Design | **VR/AR/MR/ER**: XR | **Textile Form**: Wearables, Gloves, Suits | **Textile Placement**: Full body; Arm; Wrist; hand | **Function**: Tactile perception, emotion sensing, Physiological sensing | **Electronics**: -
 - **Interaction Mode**: Haptic feedback; Hand gesture; Biofeedback | **Application**: Game; Social | **Research Aim**: To explore the design of wearables for playful XR environments by drawing on the strong parts of wearables
 - **Findings**: 14 design concepts synthesized into three design themes: Virtual Costumes, Modification of Bodily Perception, and Social Bioadaptivity
@@ -404,7 +404,7 @@ less fatigue or nausea
 - **Abbreviation**: -
 
 ## Effects of a wearable sensor–based virtual reality game on upper-extremity function in patients with stroke
-- **DOI**: DOI not available
+- **DOI**: [https://doi.org/10.1016/j.clinbiomech.2023.105944](https://doi.org/10.1016/j.clinbiomech.2023.105944)
 - **Authors**: Fen-Ling Kuo et al. | **Year**: 2023 | **J/C**: J | **Venue**: Clinical Biomechanics | **Publisher**: Elsevier | **Prototype**: PABLO | **Contribution Area**: Clinical | **Research Type**: Quantitative | **VR/AR/MR/ER**: VR | **Textile Form**: Wearables | **Textile Placement**: Upper body | **Function**: Carrier | **Electronics**: Motion sensor system
 - **Interaction Mode**: Motion tracking | **Application**: Rehabilitation | **Research Aim**: To investigate the effects of a wearable sensor-based virtual reality game on upper-extremity function in patients with stroke.
 - **Findings**: The PABLO VR game system intervention improved upper extremity hand function, shoulder and elbow movements, and elicited a higher degree of enjoyment from study participants, compared to traditional treatment methods.
@@ -412,7 +412,7 @@ less fatigue or nausea
 - **Abbreviation**: -
 
 ## Robust vision‑based glove pose estimation for both hands in virtual reality
-- **DOI**: DOI not available
+- **DOI**: [https://doi.org/10.1007/s10055-023-00860-6](https://doi.org/10.1007/s10055-023-00860-6)
 - **Authors**: Fu‑Song Hsu et al. | **Year**: 2023 | **J/C**: J | **Venue**: Virtual Reality | **Publisher**: Springer | **Prototype**: - | **Contribution Area**: Engineering | **Research Type**: Quantitative | **VR/AR/MR/ER**: VR | **Textile Form**: Gloves | **Textile Placement**: Hands | **Function**: Carrier | **Electronics**: Camera, photorealistic glove data generation framework, deep learning model
 - **Interaction Mode**: Touch; Mid-air gesture | **Application**: - | **Research Aim**: To propose a vision-based method for improved two-handed glove tracking in virtual reality (VR) using a single camera attached to a VR headset.
 - **Findings**: The proposed method achieved an accuracy of 94.06% on a validation set and high-speed tracking at 65 fps on a consumer graphics processing unit, using a photorealistic glove data generation framework and a "glove pose hypothesis" for training.
@@ -444,7 +444,7 @@ less fatigue or nausea
 - **Abbreviation**: DNN - Deep Neural Network; IMU - Inertial Measurement Unit
 
 ## Fully Flexible Smart Gloves and Deep Learning Motion Intention Prediction for Ultralow Latency VR Interactions
-- **DOI**: DOI not available
+- **DOI**: [https://doi.org/10.1109/LSENS.2023.3303068](https://doi.org/10.1109/LSENS.2023.3303068)
 - **Authors**: Yang Li et al. | **Year**: 2023 | **J/C**: C | **Venue**: Sensors | **Publisher**: IEEE | **Prototype**: - | **Contribution Area**: Engineering | **Research Type**: Quantitative | **VR/AR/MR/ER**: VR | **Textile Form**: Gloves | **Textile Placement**: Hands | **Function**: Motion tracking | **Electronics**: train sensors, serpentine stretchable wires, wireless signal circuit board
 - **Interaction Mode**: Touch; Motion tracking | **Application**: - | **Research Aim**: To develop a fully flexible smart glove with integrated sensors and deep learning algorithms for predicting finger motion intentions and reducing latency in VR interactions
 - **Findings**: The smart glove can predict finger motion intentions 100-600 ms in advance, effectively reducing communication latency in VR interactions and enhancing the user experience.
