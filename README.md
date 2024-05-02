@@ -12,44 +12,37 @@ Key highlights include:
 
 ## Authors
 - **Mengqi Jiang**  
-  School of System Design and Intelligent Manufacturing - HCID Lab,
-  Southern University of Science and Technology,  
+  School of System Design and Intelligent Manufacturing - HCID Lab, Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
   Email: jiangmq2022@mail.sustech.edu.cn
 
 - **Qianwen Tan**  
-  School of System Design and Intelligent Manufacturing - HCID Lab,
-  Southern University of Science and Technology,  
+  School of System Design and Intelligent Manufacturing - HCID Lab, Southern University of Science and Technology,  
   Shenzhen, China
   Email: 12332673@mail.sustech.edu.cn
 
 - **Jun Huang**  
-  School of System Design and Intelligent Manufacturing - UG,
-  Southern University of Science and Technology,  
+  School of System Design and Intelligent Manufacturing - UG, Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
   Email: 12111119@mail.sustech.edu.cn
 
 - **Rongkai Shi**  
-  Department of Computing,
-  Xi'an Jiaotong-Liverpool University,  
+  Department of Computing, Xi'an Jiaotong-Liverpool University,  
   Suzhou, Jiangsu, China  
   Email: rongkai.shi19@student.xjtlu.edu.cn
 
 - **Vijayakumar Nanjappan**  
-  School of Computer Science and Information Technology,  
-  University College Cork,  
+  School of Computer Science and Information Technology,  University College Cork,  
   Cork, Ireland  
   Email: vnanjappan@ucc.ie
 
 - **Ziqian Bai**  
-  School of System Design and Intelligent Manufacturing - HCID Lab,  
-  Southern University of Science and Technology,  
+  School of System Design and Intelligent Manufacturing - HCID Lab, Southern University of Science and Technology,  
   Shen Zhen, China  
   Email: baizq@sustech.edu.cn
 
 - **Hai-Ning Liang**  
-  Department of Computing,
-  Xi'an Jiaotong-Liverpool University,  
+  Department of Computing, Xi'an Jiaotong-Liverpool University,  
   Suzhou, Jiangsu, China  
   Email: haining.liang@xjtlu.edu.cn
 
