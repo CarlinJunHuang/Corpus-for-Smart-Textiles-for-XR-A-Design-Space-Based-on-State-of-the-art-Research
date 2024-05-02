@@ -477,44 +477,44 @@ less fatigue or nausea
 
 
 ## Authors
-- **Mengqi Jiang**
+- **Mengqi Jiang**  
   jiangmq2022@mail.sustech.edu.cn  
   School of System Design and Intelligent Manufacturing - HCID Lab,  
   Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
 
-- **Qianwen Tan**
-  Email: 12332673@mail.sustech.edu.cn  
+- **Qianwen Tan**  
+  12332673@mail.sustech.edu.cn  
   School of System Design and Intelligent Manufacturing - HCID Lab,  
   Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
 
-- **Jun Huang**
-  Email: 12111119@mail.sustech.edu.cn
+- **Jun Huang**  
+  12111119@mail.sustech.edu.cn  
   School of System Design and Intelligent Manufacturing - UG,  
   Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
 
-- **Rongkai Shi**
+- **Rongkai Shi**  
   rongkai.shi19@student.xjtlu.edu.cn  
   Department of Computing,  
   Xi'an Jiaotong-Liverpool University,  
   Suzhou, Jiangsu, China  
 
 
-- **Vijayakumar Nanjappan**
+- **Vijayakumar Nanjappan**  
   vnanjappan@ucc.ie
   School of Computer Science and Information Technology,  
   University College Cork,  
   Cork, Ireland  
 
-- **Ziqian Bai**
+- **Ziqian Bai**  
   baizq@sustech.edu.cn  
   School of System Design and Intelligent Manufacturing - HCID Lab,  
   Southern University of Science and Technology,  
   Shenzhen, Guangdong, China  
 
-- **Hai-Ning Liang**
+- **Hai-Ning Liang**  
   haining.liang@xjtlu.edu.cn  
   Department of Computing,  
   Xi'an Jiaotong-Liverpool University,  
