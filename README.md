@@ -476,54 +476,6 @@ less fatigue or nausea
 - **Abbreviation**: SBBT - Silylated Bacterial Cellulose@BC/CNT (Siliconized Bacterial Cellulose/Carbon Nanotubes)
 
 
-## Authors
-- **Mengqi Jiang**  
-  jiangmq2022@mail.sustech.edu.cn  
-  School of System Design and Intelligent Manufacturing - HCID Lab,  
-  Southern University of Science and Technology,  
-  Shenzhen, Guangdong, China  
-
-- **Qianwen Tan**  
-  12332673@mail.sustech.edu.cn  
-  School of System Design and Intelligent Manufacturing - HCID Lab,  
-  Southern University of Science and Technology,  
-  Shenzhen, Guangdong, China  
-
-- **Jun Huang**  
-  12111119@mail.sustech.edu.cn  
-  School of System Design and Intelligent Manufacturing - UG,  
-  Southern University of Science and Technology,  
-  Shenzhen, Guangdong, China  
-
-- **Rongkai Shi**  
-  rongkai.shi19@student.xjtlu.edu.cn  
-  Department of Computing,  
-  Xi'an Jiaotong-Liverpool University,  
-  Suzhou, Jiangsu, China  
-
-
-- **Vijayakumar Nanjappan**  
-  vnanjappan@ucc.ie  
-  School of Computer Science and Information Technology,  
-  University College Cork,  
-  Cork, Ireland  
-
-- **Ziqian Bai**  
-  baizq@sustech.edu.cn  
-  School of System Design and Intelligent Manufacturing - HCID Lab,  
-  Southern University of Science and Technology,  
-  Shenzhen, Guangdong, China  
-
-- **Hai-Ning Liang**  
-  haining.liang@xjtlu.edu.cn  
-  Department of Computing,  
-  Xi'an Jiaotong-Liverpool University,  
-  Suzhou, Jiangsu, China  
-
-## Contact
-For any inquiries related to this research, please contact the respective authors through the provided email addresses.
-
-
 <!-- ## Citation
 Please cite this paper as follows if you use the design space model or dataset in your research:
 > (xxx)
