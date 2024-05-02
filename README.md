@@ -503,7 +503,7 @@ less fatigue or nausea
 
 
 - **Vijayakumar Nanjappan**  
-  vnanjappan@ucc.ie
+  vnanjappan@ucc.ie  
   School of Computer Science and Information Technology,  
   University College Cork,  
   Cork, Ireland  
