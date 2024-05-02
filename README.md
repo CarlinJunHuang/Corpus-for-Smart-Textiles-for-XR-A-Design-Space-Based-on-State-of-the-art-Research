@@ -1,5 +1,15 @@
 # ISMAR 2024 Smart Textiles for XR: A Design Space Based on State-of-the-art Research
 
+## Abstract
+This repository contains supplemental corpus for the paper "Smart Textiles for XR: A Design Space Based on State-of-the-art Research".
+Key highlights include:
+- Structured framework for design, interaction, and application of smart textiles in XR.
+- Discussion on two design cases: a smart pillow for VR social interaction and textile keyboard sleeves for AR typing.
+- Emphasis on the potential to innovate smart textile solutions for an immersive digital-physical blend.
+
+## Repository Content
+- `Corpus.xlsx` - The complete dataset used for the scoping review.
+
 ## Authors
 - **Mengqi Jiang**  
   School of System Design and Intelligent Manufacturing - HCID Lab,
@@ -42,16 +52,6 @@
   Xi'an Jiaotong-Liverpool University,  
   Suzhou, Jiangsu, China  
   Email: haining.liang@xjtlu.edu.cn
-
-## Abstract
-This repository contains supplemental corpus for the paper "Smart Textiles for XR: A Design Space Based on State-of-the-art Research".
-Key highlights include:
-- Structured framework for design, interaction, and application of smart textiles in XR.
-- Discussion on two design cases: a smart pillow for VR social interaction and textile keyboard sleeves for AR typing.
-- Emphasis on the potential to innovate smart textile solutions for an immersive digital-physical blend.
-
-## Repository Content
-- `Corpus.xlsx` - The complete dataset used for the scoping review.
 
 ## Contact
 For any inquiries related to this research, please contact the respective authors through the provided email addresses.
